@@ -12,10 +12,11 @@ El que el software lliure aporta a l'educació no és només el software sino la
 Compartir el que fem en les nostres aules, el sentit de les jornades de programari lliure. Important.
 
 
-open education
+https://hipertextual.com/archivo/2014/10/ventajas-utilizar-software-libre-educacion/  
 
 
-El español Juan González, galardonado en los O'Reilly Open Source Award por su contribución al software libre González ha sido galardonado por su "extraordinaria dedicación" a innovar y expandir el conocimiento del software libre en el mundo. Es el creador del concepto 'Patrimonio Tecnológico de la Humanidad', que, como explica, "engloba todo el conjunto de tecnologías libres, que nos pertenecen a todos y que podemos desarrollar entre todos". Leer mas: http://www.europapress.es/portaltic/sector/noticia-espanol-juan-gonzalez-galardonado-oreilly-open-source-award-contribucion-software-libre-20170511173454.html (c) 2015 Europa Press. Está expresamente prohibida la redistribución y la redifusión de este contenido sin su previo y expreso consentimiento.
+
+El español Juan González, galardonado en los O'Reilly Open Source Award por su contribución al software libre González ha sido galardonado por su "extraordinaria dedicación" a innovar y expandir el conocimiento del software libre en el mundo. Es el creador del concepto **'Patrimonio Tecnológico de la Humanidad'**, que, como explica, "engloba todo el conjunto de tecnologías libres, que nos pertenecen a todos y que podemos desarrollar entre todos". Leer mas: http://www.europapress.es/portaltic/sector/noticia-espanol-juan-gonzalez-galardonado-oreilly-open-source-award-contribucion-software-libre-20170511173454.html (c) 2015 Europa Press. Está expresamente prohibida la redistribución y la redifusión de este contenido sin su previo y expreso consentimiento.
 
 
 Innovación y legitimidad
