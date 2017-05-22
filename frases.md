@@ -1,3 +1,10 @@
+# Cúales son los intereses de la empresas y los de la educación?
+
+# Adicción a lo que estamos acostumbrados!!
+
+#soporte técnico
+
+
 Los servicios gratuitos se pagan con la pérdida de privacidad.Los servicios de pago gestionados por proveedores se pagan con dinero.  Porque para tener un control total de todo, te montas tú mismo tu propia nube en tu propio servidor. De eso van ownCloud, Nextcloud y
 
 
